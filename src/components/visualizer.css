@@ -1,0 +1,16 @@
+.array-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.array-bar {
+    width: 12px;
+    padding: 1px;
+    height: 50%;
+    background-color:tomato;
+    display: inline-block;
+    margin: 0 1px;
+}
+  
